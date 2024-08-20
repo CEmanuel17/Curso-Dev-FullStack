@@ -1,0 +1,92 @@
+body {
+    background: #dddddd;
+    font-family: 'Raleway' sans-serif;
+    color: #252525;
+    margin: 0;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.foto-principal {
+
+    border: 2px  solid #ffffff;  /*shorthand*/
+    border-radius: 50%;
+    margin: 30px 30px 0px;
+    box-shadow: 0px 0px 10px #959595;
+}
+
+h1 {
+    margin-bottom: 0px;
+    margin-top: 10px;
+    letter-spacing: -1px;
+    font-family: 'PT sans narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 0px;
+    color: #252525;
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+.linkedin {
+    margin: 0px 15px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 20px;
+    height: auto;
+}
+
+p {
+    line-height: 25px;
+}
+
+h4 {
+    color: black;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+h5 {
+    color: black;
+    font-style: italic;
+    font-weight: 100;
+    margin-top: 2px;
+    font-size: 17px;
+    margin-bottom: 3px;
+}
+
+.jobs-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+h3 {
+    font-size: 27px;
+}
+
+.footer {
+    background-color: rgb(54, 54, 54);
+    color: #ffffff;
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+    font-weight: 100;
+    font-style: italic;
+    margin-top: 19px;
+    padding: 5px 0px;
+}
