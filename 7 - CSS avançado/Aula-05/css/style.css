@@ -1,0 +1,18 @@
+
+body {
+    margin: 100px;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    transition-duration: 500ms;
+    transition-property: width;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.box:hover {
+    width: 500px;
+    background-color: red;
+}
